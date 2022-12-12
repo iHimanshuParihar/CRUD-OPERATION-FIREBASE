@@ -1,0 +1,15 @@
+table{
+    background: none;
+}
+.main-container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: auto;
+}
+.btns{
+    background: none;
+    background-color: rgba(12, 255, 12, 0.757);
+    width: 400px;
+    height: 100px;
+}
